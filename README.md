@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🧠 Mental Health Chatbot – FastAPI Backend
 
@@ -23,3 +24,6 @@ uvicorn app:app --reload
 ```
 
 The interactive docs are then available at http://localhost:8000/docs
+=======
+# mental-health-chatbot-main
+>>>>>>> 22c48a0b1870814e05adfde7fa5e65bb52c3eadb
